@@ -42,6 +42,7 @@ captures/
 .idea/libraries
 misc.xml
 app/app.iml
+indra_android.iml
 
 # Keystore files
 *.jks
