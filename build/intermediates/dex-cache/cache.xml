@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d1caad6875c745de12876221732ff37d7ff68fc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b40231cef745554826946e8260d9afde345585ee">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_63552b0ec9ca15f0b6e8206aa161803edcce3710/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_27d06dff1da26315c4fce1e9387c48a0671caa1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/770439bf73c27255712d4cb2a7ce1d69c5212d9c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_313f2471a44ec87a60c38c83b58ef9432106aaf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/81a76601511d4fe17a16353cd86d68e5ab4f0b9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0f5a32f9159e66206f0327eef2aede7904153dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/370d78bf6188d992624bcff54cd1646eb9267f3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a01f21a0ba69c4820d5668d611cbb479a440cdba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/2a297ea57fb4c1c0c7f8c909f5fbfbb99dc317f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_794676079c51d26a2ee34f87b2d770005a8907dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/2fd22d1344b3469c90113967fadbf491418a5a92/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_102b453a938740f36528c281812b94fc93bdfb89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/ffbf5bdb3a0660e31e2f2f569a074d7e098b5480/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_349ed8666a7e3555858c63f40a7a2bc211f74237/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/43716b81b5747f65be5aacdf60e89a12243bfa4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_484026b7c1f86ea5b6ec252ce89d48d035643013/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_9b9da44a2b25f5fad79ec7f6172c3f7ccd07ee96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/0d85a5389efe8bef96c6705f3748dd12c61b342a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4056b64cbe81ab8ce06c9a0fec2a36ad9b709d0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/2663dbd60f64a4606221ec7a07d6aa72a95c888b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b1f2175f800a7d1ef8c0cc04738706692d92022/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/09c2dba4a832f7bb5012a3b543dfc06610606a13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_408b2d8f90c007b52e8b83691d39a6f8c875510a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/9ad7264cfe453f43aa502e1c477f5de591d9d3cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_674e0da5de0db7eebac7cc71575d7102ebfacc56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/Documents/Projetos/indra_android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9d9eb903aa4d3521800b18fff9dc8e96fdcd028f">
+        <dex dex="/home/marcelo/Documents/Projetos/indra_android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f046f537431de1e63861df43b974a7002660c7e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/Documents/Projetos/indra_android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/marcelo/Documents/Projetos/indra_android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_44e763378bdaf1ae031e879b7b98ca26acc5beba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/5a61205959c8601690cb1f7a9cea9b022fe9e36f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2bebf12ea5b1d380734a103e432247e46cc85e78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/marcelo/.android/build-cache/2eafbda2bdee65a3d4bc4c66f6fc3c04ed351199/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/marcelo/AndroidStudioProjects/IndraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7836e87015369ca2778f4da17d3af3fa0d9c17e/classes.dex" />
+    </item>
+
+</items>
