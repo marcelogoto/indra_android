@@ -8,6 +8,8 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.Button;
+import android.widget.TextView;
 
 public class HomeActivity extends AppCompatActivity {
 
@@ -18,12 +20,29 @@ public class HomeActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-       FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
+        final TextView helloWord = (TextView) findViewById(R.id.helloworld);
+
+        Button ptBtn = (Button) findViewById(R.id.portuguese);
+        ptBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
-                        .setAction("Action", null).show();
+                helloWord.setText("Olá Mundo!");
+            }
+        });
+
+        Button esBtn = (Button) findViewById(R.id.spanish);
+        esBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                helloWord.setText("¡Hola mundo!");
+            }
+        });
+
+        Button usBtn = (Button) findViewById(R.id.english);
+        usBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                helloWord.setText("Hello World!");
             }
         });
     }
