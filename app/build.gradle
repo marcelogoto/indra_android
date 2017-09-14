@@ -11,10 +11,22 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
+    signingConfigs{
+        hockeyApp{
+            storeFile file("/home/indra_keystore.jks")
+            storePassword 'senha123'
+            keyAlias "key0"
+            keyPassword 'senha123'
+        }
+    }
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+
+        hockeyApp{
+            signingConfig signingConfigs.hockeyApp
         }
     }
     repositories{
