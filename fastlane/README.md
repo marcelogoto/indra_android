@@ -40,11 +40,11 @@ Runs all the tests
 fastlane android beta
 ```
 
-### android deploy
+### android hockeyapp
 ```
-fastlane android deploy
+fastlane android hockeyapp
 ```
-Deploy a new version to the Google Play
+
 
 ----
 

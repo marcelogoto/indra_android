@@ -20,11 +20,21 @@ platform :android do
 
   lane :hockeyapp do
      gradle(
-	task: 'assemble'
+	task: 'assemble',
 	build_type: 'hockeyApp'
      )
 
-     hockeyapp(
-	api_token: 'b89dc85f31cc48f78e9404cfd2c5e553',
+     hockey(
+  	api_token: "b89dc85f31cc48f78e9404cfd2c5e553",
+	apk: "app/build/outputs/apk/app-hockeyApp.apk",
+	notes: "yay!",
+	notify: "0"
      )
+  end
+
+  after_all do |lane|
+  end
+
+  error do |lane, exception|
+  end
 end
