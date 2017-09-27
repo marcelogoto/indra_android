@@ -1,5 +1,4 @@
 # Built application files
-*.apk
 *.ap_
 
 # Files for the ART/Dalvik VM
@@ -44,9 +43,6 @@ captures/
 misc.xml
 app/app.iml
 indra_android.iml
-
-# Keystore files
-*.jks
 
 # External native build folder generated in Android Studio 2.2 and later
 .externalNativeBuild
